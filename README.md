@@ -1,1 +1,1 @@
-# American-Tang-Soo-Do
+# American Tang Soo Do
