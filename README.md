@@ -16,8 +16,9 @@ Site: https://jlpennington.github.io/American-Tang-Soo-Do/
 
 ## Archive docs
 
-Curriculum lists, formatted as documentation pages. Empty until names are supplied, except where Jeremy has provided copy:
+Curriculum lists, formatted as documentation pages:
 
+- [Progression](curriculum.html) (draft high-level linear view)
 - [Pattern Sets](patterns.html)
 - [Striking Techniques](striking.html)
 - [Defensive Techniques](defensive.html)
