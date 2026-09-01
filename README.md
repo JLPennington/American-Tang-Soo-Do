@@ -21,6 +21,9 @@ Curriculum lists, formatted as documentation pages. Empty until names are suppli
 - [Pattern Sets](patterns.html)
 - [Striking techniques](striking.html)
 - [Defensive techniques](defensive.html)
+- [Sparring](sparring.html)
+- [One and Two Step Sparring](one-two-step-sparring.html)
+- [Accessory exercises](accessory-exercises.html)
 
 Shared styles: `docs.css`
 
