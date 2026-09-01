@@ -52,45 +52,26 @@
       letter-spacing: 0.12em;
       text-transform: uppercase;
     }
-    nav.archive-nav {
-      margin-top: 1.75rem;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 0.75rem 1.25rem;
-    }
-    nav.archive-nav a {
-      color: #cfcfcf;
-      text-decoration: none;
-      font-size: 0.8rem;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-    }
-    nav.archive-nav a:hover,
-    nav.archive-nav a[aria-current="page"] {
-      color: #fff;
-    }
     main {
       width: min(720px, 100%);
-      min-height: 40vh;
       margin-top: 3rem;
     }
-    main section {
-      margin-bottom: 2.5rem;
-    }
-    main h2 {
+    nav.section-list {
       color: var(--paper);
-      font-size: 1.05rem;
-      font-weight: 600;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      margin-bottom: 0.6rem;
     }
-    main a {
+    nav.section-list ul {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: 0.85rem;
+    }
+    nav.section-list a {
       color: #cfcfcf;
       text-decoration: none;
+      font-size: 0.95rem;
+      letter-spacing: 0.04em;
     }
-    main a:hover {
+    nav.section-list a:hover {
       color: #fff;
       text-decoration: underline;
     }
@@ -102,21 +83,19 @@
       <img src="logo.png" alt="American Tang Soo Do">
       <h1>American Tang Soo Do</h1>
       <p class="lede">Public archive</p>
-      <nav class="archive-nav" aria-label="Archive sections">
-        <a href="curriculum.html">Progression</a>
-        <a href="patterns.html">Pattern Sets</a>
-        <a href="striking.html">Striking Techniques</a>
-        <a href="defensive.html">Defensive Techniques</a>
-        <a href="sparring.html">Sparring</a>
-        <a href="one-two-step-sparring.html">One and Two Step Sparring</a>
-        <a href="accessory-exercises.html">Accessory Exercises</a>
-      </nav>
     </header>
     <main>
-      <section id="progression" aria-labelledby="progression-heading">
-        <h2 id="progression-heading">Progression</h2>
-        <p><a href="curriculum.html">Curriculum Progression</a></p>
-      </section>
+      <nav class="section-list" aria-label="Archive sections">
+        <ul>
+          <li><a href="curriculum.html">Progression</a></li>
+          <li><a href="patterns.html">Pattern Sets</a></li>
+          <li><a href="striking.html">Striking Techniques</a></li>
+          <li><a href="defensive.html">Defensive Techniques</a></li>
+          <li><a href="sparring.html">Sparring</a></li>
+          <li><a href="one-two-step-sparring.html">One and Two Step Sparring</a></li>
+          <li><a href="accessory-exercises.html">Accessory Exercises</a></li>
+        </ul>
+      </nav>
     </main>
   </div>
 </body>
