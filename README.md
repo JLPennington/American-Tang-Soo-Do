@@ -12,10 +12,12 @@ This repository is not a software product. It holds reference material as it is 
 
 `index.html` is the GitHub Pages landing page. It is intentionally empty except for the project logo — add archive content there as it is ready.
 
-Site (once Pages is on): https://jlpennington.github.io/American-Tang-Soo-Do/
+Site: https://jlpennington.github.io/American-Tang-Soo-Do/
 
-To enable Pages: repo **Settings → Pages → Build and deployment**, source **Deploy from a branch**, branch `main`, folder `/ (root)`.
+## Press package
+
+Media kit (placeholders until facts are supplied): [`press/`](press/)
 
 ## Logo
 
-`logo.png` is the project mark.
+`logo.png` is the project mark. Facebook-sized variants: [`assets/facebook/`](assets/facebook/)
