@@ -16,16 +16,18 @@ Site: https://jlpennington.github.io/American-Tang-Soo-Do/
 
 ## Archive docs
 
-Curriculum lists, formatted as documentation pages. Empty until names are supplied:
+Curriculum lists, formatted as documentation pages. Empty until names are supplied, except where Jeremy has provided copy:
 
 - [Pattern Sets](patterns.html)
-- [Striking techniques](striking.html)
-- [Defensive techniques](defensive.html)
+- [Striking Techniques](striking.html)
+- [Defensive Techniques](defensive.html)
 - [Sparring](sparring.html)
 - [One and Two Step Sparring](one-two-step-sparring.html)
-- [Accessory exercises](accessory-exercises.html)
+- [Accessory Exercises](accessory-exercises.html)
 
 Shared styles: `docs.css`
+
+**Pattern Set** is a formal term and is always capitalized (plural: **Pattern Sets**). The organization name is always **American Tang Soo Do**. Other section titles use Title Case.
 
 ## Press package
 

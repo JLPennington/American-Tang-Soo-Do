@@ -61,7 +61,7 @@ a { color: var(--link); }
 
 .docs {
   display: grid;
-  grid-template-columns: 220px minmax(0, 1fr);
+  grid-template-columns: 240px minmax(0, 1fr);
   max-width: 1080px;
   margin: 0 auto;
   min-height: calc(100vh - 56px);
@@ -136,6 +136,16 @@ article h1 {
   color: var(--muted);
   margin-bottom: 24px;
   max-width: 40rem;
+}
+
+.prose {
+  max-width: 40rem;
+  margin: 12px 0 24px;
+  color: var(--ink);
+}
+
+.prose p + p {
+  margin-top: 0.9em;
 }
 
 table {
