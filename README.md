@@ -28,7 +28,7 @@ Curriculum lists, formatted as documentation pages:
 
 Shared styles: `docs.css`
 
-**Pattern Set** is a formal term and is always capitalized (plural: **Pattern Sets**). The organization name is always **American Tang Soo Do**. Other section titles use Title Case.
+**Pattern Set** is a formal term and is always capitalized (plural: **Pattern Sets**). **Dan** is a formal term and is always capitalized (e.g. 1st Dan). The organization name is always **American Tang Soo Do**. Other section titles use Title Case.
 
 ## Press package
 
