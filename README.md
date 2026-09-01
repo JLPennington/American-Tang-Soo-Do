@@ -28,6 +28,8 @@ Curriculum lists, formatted as documentation pages:
 
 Shared styles: `docs.css`
 
+Markdown mirrors of those pages live in [`markdown/`](markdown/). Keep a mirror in sync whenever the matching HTML page changes. The HTML page is canonical for the public site.
+
 **Pattern Set** is a formal term and is always capitalized (plural: **Pattern Sets**). **Dan** is a formal term and is always capitalized (e.g. 1st Dan). The organization name is always **American Tang Soo Do**. Other section titles use Title Case.
 
 ## Press package
