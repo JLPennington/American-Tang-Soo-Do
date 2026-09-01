@@ -6,6 +6,9 @@
   --line: #dcdad3;
   --header: #000;
   --link: #1b1b1b;
+  --draft: #f4e6c3;
+  --draft-ink: #3d2f0f;
+  --draft-line: #c4a35a;
 }
 
 * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -146,6 +149,58 @@ article h1 {
 
 .prose p + p {
   margin-top: 0.9em;
+}
+
+.draft-banner {
+  background: var(--draft);
+  border: 1px solid var(--draft-line);
+  color: var(--draft-ink);
+  padding: 12px 14px;
+  border-radius: 6px;
+  margin: 12px 0 20px;
+  max-width: 40rem;
+}
+
+.progression {
+  max-width: 40rem;
+  list-style: decimal;
+  padding-left: 1.4rem;
+}
+
+.progression > li {
+  margin-bottom: 1.75rem;
+}
+
+.progression h2 {
+  font-size: 1.1rem;
+  font-weight: 650;
+  margin: 0 0 0.5rem;
+}
+
+.progression h2 .note {
+  font-weight: 400;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.progression ul {
+  list-style: disc;
+  padding-left: 1.25rem;
+}
+
+.progression ul ul {
+  list-style: circle;
+  margin-top: 0.35rem;
+  margin-bottom: 0.35rem;
+}
+
+.progression li {
+  margin: 0.2rem 0;
+}
+
+.tbd-note {
+  color: var(--muted);
+  font-style: italic;
 }
 
 table {
