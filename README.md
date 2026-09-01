@@ -14,13 +14,15 @@ This repository is not a software product. It holds reference material as it is 
 
 Site: https://jlpennington.github.io/American-Tang-Soo-Do/
 
-## Archive lists
+## Archive docs
 
-Empty until names are supplied:
+Curriculum lists, formatted as documentation pages. Empty until names are supplied:
 
 - [Pattern Sets](patterns.html)
 - [Striking techniques](striking.html)
 - [Defensive techniques](defensive.html)
+
+Shared styles: `docs.css`
 
 ## Press package
 

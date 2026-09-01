@@ -4,112 +4,44 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>Defensive techniques — American Tang Soo Do</title>
-  <meta name="description" content="Archive list of defensive techniques. Empty until names are supplied.">
+  <meta name="description" content="Archive documentation: defensive techniques. Empty until names are supplied.">
   <link rel="icon" href="logo.png">
-  <style>
-    :root {
-      --bg: #000;
-      --paper: #ececec;
-      --ink: #111;
-      --muted: #6a6a6a;
-    }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    html, body { min-height: 100%; }
-    body {
-      background: var(--bg);
-      color: var(--ink);
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      line-height: 1.5;
-    }
-    .frame {
-      min-height: 100vh;
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: flex-start;
-      padding: 8vh 24px 48px;
-    }
-    header {
-      text-align: center;
-      max-width: 36rem;
-    }
-    header img {
-      width: min(160px, 40vw);
-      height: auto;
-      display: block;
-      margin: 0 auto 1.5rem;
-    }
-    h1 {
-      position: absolute;
-      width: 1px;
-      height: 1px;
-      overflow: hidden;
-      clip: rect(0 0 0 0);
-    }
-    nav.archive-nav {
-      margin-top: 0.5rem;
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 0.75rem 1.25rem;
-    }
-    nav.archive-nav a {
-      color: #cfcfcf;
-      text-decoration: none;
-      font-size: 0.8rem;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-    }
-    nav.archive-nav a:hover,
-    nav.archive-nav a[aria-current="page"] {
-      color: #fff;
-    }
-    main {
-      width: min(720px, 100%);
-      margin-top: 3rem;
-    }
-    main h2 {
-      color: var(--paper);
-      font-size: 1.15rem;
-      font-weight: 600;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      margin-bottom: 0.75rem;
-    }
-    .tbd {
-      color: var(--muted);
-      font-size: 0.95rem;
-    }
-    .back {
-      margin-bottom: 1.5rem;
-    }
-    .back a {
-      color: #cfcfcf;
-      font-size: 0.8rem;
-      letter-spacing: 0.08em;
-      text-transform: uppercase;
-      text-decoration: none;
-    }
-    .back a:hover { color: #fff; }
-  </style>
+  <link rel="stylesheet" href="docs.css">
 </head>
 <body>
-  <div class="frame">
-    <header>
-      <a href="index.html"><img src="logo.png" alt="American Tang Soo Do"></a>
-      <h1>American Tang Soo Do</h1>
-      <nav class="archive-nav" aria-label="Archive sections">
-        <a href="patterns.html">Pattern Sets</a>
-        <a href="striking.html">Striking techniques</a>
-        <a href="defensive.html" aria-current="page">Defensive techniques</a>
-      </nav>
-    </header>
-    <main>
-      <p class="back"><a href="index.html">Archive home</a></p>
-      <h2>Defensive techniques</h2>
-      <p class="tbd">TBD. This list is empty until names are supplied. Leave it blank rather than guessing.</p>
-      <ul></ul>
-    </main>
+  <header class="topbar">
+    <a class="brand" href="index.html">
+      <img src="logo.png" alt="">
+      <span class="title">American Tang Soo Do<span class="subtitle">Archive docs</span></span>
+    </a>
+  </header>
+  <div class="docs">
+    <nav class="sidenav" aria-label="Docs">
+      <h2>Curriculum</h2>
+      <ul>
+        <li><a href="patterns.html">Pattern Sets</a></li>
+        <li><a href="striking.html">Striking techniques</a></li>
+        <li><a href="defensive.html" aria-current="page">Defensive techniques</a></li>
+      </ul>
+    </nav>
+    <article>
+      <p class="crumb"><a href="index.html">Archive</a> / Defensive techniques</p>
+      <h1>Defensive techniques</h1>
+      <p class="intro">Curriculum list. Entries will be added as they are supplied. Leave a row blank rather than guessing.</p>
+      <table>
+        <thead>
+          <tr>
+            <th scope="col">Name</th>
+            <th scope="col">Notes</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td class="tbd" colspan="2">TBD</td>
+          </tr>
+        </tbody>
+      </table>
+    </article>
   </div>
 </body>
 </html>
