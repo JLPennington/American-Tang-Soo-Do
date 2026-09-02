@@ -104,8 +104,8 @@ All Dan testing is by invitation only. A prospective candidate will receive a wr
 #### Pattern Sets
 
 - Jin Do
-- Kong Sang Koon
 - Ship Soo
+- Kong Sang Koon
 
 #### Requirements to advance to 3rd Dan
 
