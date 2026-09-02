@@ -19,9 +19,9 @@ High-level view of what a person will learn, in order. Content below is from the
 - Pyung Ahn Sa Dan
 - Pyung Ahn Oh Dan
 
-### One steps
+### One Steps
 
-- Block kick, kick, punch, punch, kick (basic one step drill)
+- Block kick, kick, punch, punch, kick (basic One Step drill)
 - Step back, kick
 - Push back, kick
 - Open step, kick
@@ -34,7 +34,7 @@ High-level view of what a person will learn, in order. Content below is from the
 - Bassi’s
 - Fall training
 
-### One steps
+### One Steps
 
 - Sweep
 - Hip throw
