@@ -70,9 +70,10 @@ Two Step Sparring is introduced at Dark Blue. This is the only additional concep
 
 ### Requirements to advance to 1st Dan
 
-- Correct structure and movement of structure, achieving speed. Demonstrate proof of speed through breaking. Demonstrate the ability to defend against and attack an opponent.
+- A prospective candidate will receive a written invitation.
+- Correct structure and movement of structure, achieving speed.
+- Demonstrate proof of speed through breaking. Demonstrate the ability to defend against and attack an opponent during Two Step Sparring.
 - Ability to perform all Pattern Sets learned from the start of training through the current rank without correction.
-- Ability to perform all One Step Sparring learned from the start of training through the current rank without correction.
 - Ability to fight with a moderate level of confidence and skill.
 - The student is responsible for all material learned from the start of training through the current rank.
 - Ability to explain and demonstrate the purpose of each Pattern Set when asked about a specific portion of a Pattern Set.
@@ -83,16 +84,48 @@ All Dan testing is by invitation only. A prospective candidate will receive a wr
 
 ### 1st Dan
 
-Correct structure and movement of structure, achieving speed. Demonstrate proof of speed through breaking. Demonstrate the ability to defend against and attack an opponent.
+#### Pattern Sets
+
+- Naihanchi Cho-Dan
+- Naihanchi Ee-Dan
+- Naihanchi Sam-Dan
+
+#### Requirements to advance to 2nd Dan
+
+- Correct structure, use of hips through movement of structure, achieving speed and power.
+- Demonstrate proof of power through breaking. Demonstrate the ability to defend against and attack an opponent during Two Step Sparring.
+- Ability to perform all Pattern Sets learned from the start of training through the current rank without correction.
+- Ability to fight with a moderate level of confidence and skill.
+- The student is responsible for all material learned from the start of training through the current rank.
+- Ability to explain and demonstrate the purpose of each Pattern Set when asked about a specific portion of a Pattern Set.
 
 ### 2nd Dan
 
-Use of hips through movement of structure, achieving power.
+#### Pattern Sets
+
+- Jin Do
+- Kong Sang Koon
+- Ship Soo
+
+#### Requirements to advance to 3rd Dan
+
+- Correct structure, use of hips through movement of structure, achieving speed and power.
+- Demonstrate proof of power through breaking. Demonstrate the ability to defend against and attack an opponent during Two Step Sparring.
+- Ability to perform all Pattern Sets learned from the start of training through the current rank without correction.
+- Ability to fight with an expert level of confidence and skill.
+- The student is responsible for all material learned from the start of training through the current rank.
+- Ability to explain and demonstrate the purpose of each Pattern Set when asked about a specific portion of a Pattern Set.
 
 ### 3rd Dan
 
-Uncommon ability across a range of techniques that are clearly utilized in application.
+Refinement of knowledge and skill.
+
+#### Requirements to advance to 4th Dan
+
+- Uncommon ability across a range of techniques that are clearly utilized in application.
+- Demonstrate proof of power through breaking. Demonstrate the ability to defend against and attack an opponent during Two Step Sparring.
+- A defined, clear fighting style documented in a Pattern Set. The Pattern Set must be functional, layered, and promote skill development across a spectrum of identifiable patterns.
 
 ### 4th Dan
 
-A defined, clear fighting style documented in a Pattern Set. The Pattern Set must be functional, layered, and promote skill development across a spectrum of identifiable patterns.
+Terminal Dan rank
