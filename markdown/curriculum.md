@@ -9,6 +9,12 @@ High-level view of what a person will learn, in order. Content below is from the
 - Basic techniques
 - Basic form, one
 
+### Requirements to advance
+
+- Ability to perform basic techniques with only minor corrections.
+- Ability to perform Basic form, one.
+- Ability to function in basic training with only minor corrections.
+
 ## Green Belt
 
 ### Pattern Sets
