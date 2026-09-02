@@ -46,6 +46,8 @@ High-level view of what a person will learn, in order. Content below is from the
 
 Dark Blue belt testing is meant to identify areas for improvement that the student will utilize in training refinement in preparation for 1st Dan testing. Although a student can fail this testing, the testing is generally not viewed as a pass-fail event, but a learning experience.
 
+Two Step Sparring introduced at the rank of blue belt. This is the only additional concept the student will be exposed to until 1st Dan.
+
 ## Dan ranks and testing
 
 All Dan testing is by invitation only. A prospective candidate will receive a written invitation.
