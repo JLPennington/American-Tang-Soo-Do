@@ -66,11 +66,11 @@ High-level view of what a person will learn, in order. Content below is from the
 
 ## Dark Blue (test required)
 
-Two Step Sparring introduced at the rank of blue belt. This is the only additional concept the student will be exposed to until 1st Dan.
+Two Step Sparring is introduced at Dark Blue. This is the only additional concept the student will be exposed to until 1st Dan.
 
 ### Requirements to advance to 1st Dan
 
-- Correct structure and movement of structure achieving speed. Demonstrate proof of speed through breaking. Demonstrate ability to defend against and attack an opponent.
+- Correct structure and movement of structure, achieving speed. Demonstrate proof of speed through breaking. Demonstrate the ability to defend against and attack an opponent.
 - Ability to perform all Pattern Sets learned from the start of training through the current rank without correction.
 - Ability to perform all One Step Sparring learned from the start of training through the current rank without correction.
 - Ability to fight with a moderate level of confidence and skill.
@@ -83,11 +83,11 @@ All Dan testing is by invitation only. A prospective candidate will receive a wr
 
 ### 1st Dan
 
-Correct structure and movement of structure achieving speed. Demonstrate proof of speed through breaking. Demonstrate ability to defend against and attack an opponent.
+Correct structure and movement of structure, achieving speed. Demonstrate proof of speed through breaking. Demonstrate the ability to defend against and attack an opponent.
 
 ### 2nd Dan
 
-Use of hips through movement of structure achieving power.
+Use of hips through movement of structure, achieving power.
 
 ### 3rd Dan
 
@@ -95,4 +95,4 @@ Uncommon ability across a range of techniques that are clearly utilized in appli
 
 ### 4th Dan
 
-Defined clear fighting style documented in a Pattern Set. Pattern Set must be functional, layered, and promote skill development across a spectrum of identifiable patterns.
+A defined, clear fighting style documented in a Pattern Set. The Pattern Set must be functional, layered, and promote skill development across a spectrum of identifiable patterns.
