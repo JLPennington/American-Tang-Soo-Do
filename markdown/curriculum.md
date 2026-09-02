@@ -35,6 +35,12 @@ High-level view of what a person will learn, in order. Content below is from the
 - Cancel step
 - Back pivot
 
+### Requirements to advance
+
+- Ability to perform all Pattern Sets without correction.
+- Ability to perform all One Step Sparring without correction.
+- Ability to fight with a moderate level of confidence and skill.
+
 ## Brown Belt
 
 - Bassi’s
