@@ -9,7 +9,7 @@ Public archive
 - [Progression](curriculum.md)
   **Draft.** Updated outline of a linear curriculum progression. Not complete or official.
 - [Pattern Sets](patterns.md)
-  **Draft.** The list of Pattern Sets is empty. Not complete or official. Names will be added as they are supplied.
+  **Draft.** Names listed from the Curriculum Progression draft. Descriptions are not yet written.
 - [Striking Techniques](striking.md)
   **Draft.** The Striking Techniques list is empty. Not complete or official. Entries will be added as they are supplied.
 - [Defensive Techniques](defensive.md)
