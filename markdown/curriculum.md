@@ -9,7 +9,7 @@ High-level view of what a person will learn, in order. Content below is from the
 - Basic techniques
 - Basic form, one
 
-### Requirements to advance
+### Requirements to advance to Green Belt
 
 - Ability to perform basic techniques with only minor corrections.
 - Ability to perform Basic form, one.
@@ -35,7 +35,7 @@ High-level view of what a person will learn, in order. Content below is from the
 - Cancel step
 - Back pivot
 
-### Requirements to advance
+### Requirements to advance to Brown Belt
 
 - Ability to perform all Pattern Sets without correction.
 - Ability to perform all One Step Sparring without correction.
@@ -54,7 +54,7 @@ High-level view of what a person will learn, in order. Content below is from the
 - Outward wrist lock
 - Inward wrist lock
 
-### Requirements to advance
+### Requirements to advance to Dark Blue
 
 - Ability to perform all Pattern Sets learned from the start of training through the current rank without correction.
 - Ability to perform all One Step Sparring learned from the start of training through the current rank without correction.
@@ -67,7 +67,7 @@ Dark Blue belt testing is meant to identify areas for improvement that the stude
 
 Two Step Sparring introduced at the rank of blue belt. This is the only additional concept the student will be exposed to until 1st Dan.
 
-### Requirements to advance
+### Requirements to advance to 1st Dan
 
 - Ability to perform all Pattern Sets learned from the start of training through the current rank without correction.
 - Ability to perform all One Step Sparring learned from the start of training through the current rank without correction.
