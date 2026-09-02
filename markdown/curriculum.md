@@ -2,6 +2,8 @@
 
 **Draft.** Updated outline of a linear curriculum progression. Not complete or official.
 
+**Testing and certificates.** No testing is required until Dark Blue. Advancement in rank is based on the student’s observed performance during training sessions. Certificates are issued only for Dan ranks. No testing fees are charged.
+
 High-level view of what a person will learn, in order. Content below is from the current draft.
 
 ## White Belt
