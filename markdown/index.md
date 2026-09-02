@@ -7,7 +7,7 @@ Public archive
 ## Sections
 
 - [Progression](curriculum.md)
-  **Draft.** Early outline of a linear curriculum progression. Not complete or official. Listed only as supplied; 1st Dan has no entries yet.
+  **Draft.** Updated outline of a linear curriculum progression. Not complete or official.
 - [Pattern Sets](patterns.md)
   **Draft.** The list of Pattern Sets is empty. Not complete or official. Names will be added as they are supplied.
 - [Striking Techniques](striking.md)

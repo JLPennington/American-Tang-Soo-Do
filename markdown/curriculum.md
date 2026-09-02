@@ -1,45 +1,67 @@
 # Curriculum Progression
 
-**Draft.** Early outline of a linear curriculum progression. Not complete or official. Listed only as supplied; 1st Dan has no entries yet.
+**Draft.** Updated outline of a linear curriculum progression. Not complete or official.
 
-High-level view of what a person will learn, in order. Names below are from an early draft. Do not add missing ranks or techniques.
+High-level view of what a person will learn, in order. Content below is from the current draft.
 
 ## White Belt
 
-- Basic moves
+- Basic techniques
 - Basic form, one
 
 ## Green Belt
 
-- 5 forms
-- One steps
-  - Block punch
-  - Punch, punch
-  - Block kick, punch
-  - Step back, kick
-  - Push back, kick
-  - Open step, kick
-  - Circle step, kick
-  - Cancel step
-  - Back pivot
-- Closed counter
+### Pattern Sets
+
+- Pyung Ahn Cho Dan
+- Pyung Ahn Ee Dan
+- Pyung Ahn Sam Dan
+- Pyung Ahn Sa Dan
+- Pyung Ahn Oh Dan
+
+### One steps
+
+- Block kick, kick, punch, punch, kick (basic one step drill)
+- Step back, kick
+- Push back, kick
+- Open step, kick
+- Circle step, kick
+- Cancel step
+- Back pivot
 
 ## Brown Belt
 
 - Bassi’s
-- 3 kick forms
 - Fall training
-- One steps
-  - Sweep
-  - Hip throw
-  - Sleeve grab
-  - Outward wrist lock
-  - Inward wrist lock
+
+### One steps
+
+- Sweep
+- Hip throw
+- Sleeve grab
+- Outward wrist lock
+- Inward wrist lock
 
 ## Dark Blue (test required)
 
-- Refinement
+Dark Blue belt testing is meant to identify areas for improvement that the student will utilize in training refinement in preparation for 1st Dan testing. Although a student can fail this testing, the testing is generally not viewed as a pass-fail event, but a learning experience.
 
-## 1st Dan
+## Dan ranks and testing
 
-TBD
+All Dan testing is by invitation only. A prospective candidate will receive a written invitation.
+
+### 1st Dan
+
+Correct structure and movement of structure achieving speed. Demonstrate proof of speed through breaking. Demonstrate ability to defend against and attack an opponent.
+
+### 2nd Dan
+
+Use of hips through movement of structure achieving power.
+
+### 3rd Dan
+
+Uncommon ability across a range of techniques that are clearly utilized in application.
+
+### 4th Dan
+
+Defined clear fighting style documented in a Pattern Set. Pattern Set must be functional, layered, and promote skill development across a spectrum of identifiable patterns.
