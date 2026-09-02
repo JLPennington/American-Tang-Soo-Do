@@ -18,6 +18,6 @@ Names below follow the Curriculum Progression draft, in order. Add descriptions 
 | Naihanchi Cho-Dan | |
 | Naihanchi Ee-Dan | |
 | Naihanchi Sam-Dan | |
-| Jin Do | |
 | Ship Soo | |
+| Jin Do | |
 | Kong Sang Koon | |
