@@ -151,6 +151,12 @@ article h1 {
   margin-top: 0.9em;
 }
 
+.prose-block {
+  max-width: 40rem;
+  margin: 0 0 1.5rem;
+  color: var(--ink);
+}
+
 .draft-banner {
   background: var(--draft);
   border: 1px solid var(--draft-line);
@@ -158,6 +164,13 @@ article h1 {
   padding: 12px 14px;
   border-radius: 6px;
   margin: 12px 0 20px;
+  max-width: 40rem;
+}
+
+.section-title {
+  font-size: 1.25rem;
+  font-weight: 650;
+  margin: 2rem 0 0.75rem;
   max-width: 40rem;
 }
 
@@ -177,7 +190,14 @@ article h1 {
   margin: 0 0 0.5rem;
 }
 
-.progression h2 .note {
+.progression h3 {
+  font-size: 0.95rem;
+  font-weight: 600;
+  margin: 0.85rem 0 0.4rem;
+}
+
+.progression h2 .note,
+.progression .note {
   font-weight: 400;
   color: var(--muted);
   font-size: 0.9rem;
@@ -196,6 +216,10 @@ article h1 {
 
 .progression li {
   margin: 0.2rem 0;
+}
+
+.progression p {
+  margin: 0.35rem 0 0;
 }
 
 .tbd-note {
