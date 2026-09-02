@@ -9,12 +9,12 @@ High-level view of what a person will learn, in order. Content below is from the
 ## White Belt
 
 - Basic techniques
-- Basic form, one
+- Basic Pattern Set
 
 ### Requirements to advance to Green Belt
 
 - Ability to perform basic techniques with only minor corrections.
-- Ability to perform Basic form, one.
+- Ability to perform Basic Pattern Set.
 - Ability to function in basic training with only minor corrections.
 
 ## Green Belt
