@@ -67,6 +67,14 @@ Dark Blue belt testing is meant to identify areas for improvement that the stude
 
 Two Step Sparring introduced at the rank of blue belt. This is the only additional concept the student will be exposed to until 1st Dan.
 
+### Requirements to advance
+
+- Ability to perform all Pattern Sets learned from the start of training through the current rank without correction.
+- Ability to perform all One Step Sparring learned from the start of training through the current rank without correction.
+- Ability to fight with a moderate level of confidence and skill.
+- The student is responsible for all material learned from the start of training through the current rank.
+- Ability to explain and demonstrate the purpose of each Pattern Set when asked about a specific portion of a Pattern Set.
+
 ## Dan ranks and testing
 
 All Dan testing is by invitation only. A prospective candidate will receive a written invitation.
