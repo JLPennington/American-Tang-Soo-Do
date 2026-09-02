@@ -54,6 +54,13 @@ High-level view of what a person will learn, in order. Content below is from the
 - Outward wrist lock
 - Inward wrist lock
 
+### Requirements to advance
+
+- Ability to perform all Pattern Sets learned from the start of training through the current rank without correction.
+- Ability to perform all One Step Sparring learned from the start of training through the current rank without correction.
+- Ability to fight with a moderate level of confidence and skill.
+- The student is responsible for all material learned from the start of training through the current rank.
+
 ## Dark Blue (test required)
 
 Dark Blue belt testing is meant to identify areas for improvement that the student will utilize in training refinement in preparation for 1st Dan testing. Although a student can fail this testing, the testing is generally not viewed as a pass-fail event, but a learning experience.
