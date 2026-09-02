@@ -60,6 +60,7 @@ High-level view of what a person will learn, in order. Content below is from the
 - Ability to perform all One Step Sparring learned from the start of training through the current rank without correction.
 - Ability to fight with a moderate level of confidence and skill.
 - The student is responsible for all material learned from the start of training through the current rank.
+- Ability to explain and demonstrate the purpose of each Pattern Set when asked about a specific portion of a Pattern Set.
 
 ## Dark Blue (test required)
 
