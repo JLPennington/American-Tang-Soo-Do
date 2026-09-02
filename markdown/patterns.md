@@ -6,11 +6,11 @@ American Tang Soo Do utilizes classical Pattern Sets in training. Pattern Sets a
 
 Names below follow the Curriculum Progression draft, in order. Shared history for a group of Pattern Sets appears once above that group. Per–Pattern Set Notes stay blank until supplied. Leave a Notes cell blank rather than guessing.
 
-## Basic form, one
+## Basic Pattern Set
 
 | Name | Notes |
 | --- | --- |
-| Basic form, one | Teaches basic movement, turning, defense, and punching. Utilized to prepare white belts for more complex concepts. |
+| Basic Pattern Set | Teaches basic movement, turning, defense, and punching. Utilized to prepare white belts for more complex concepts. |
 
 ## Pyung Ahn Pattern Sets
 
