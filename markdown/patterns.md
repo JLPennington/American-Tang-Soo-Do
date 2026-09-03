@@ -14,7 +14,7 @@ Teaches basic movement, turning, defense, and punching. Utilized to prepare whit
 
 ## Pyung Ahn Pattern Sets
 
-The five Pattern Sets were created by Okinawan master Anko Itosu (Itosu Yasutsune) around 1900–1905. He simplified material from older kata such as Channan (Jae Nam) and Kusanku (Kong Sang Koon / Kushanku) so they could be taught to schoolchildren. They were later carried to Japan by Gichin Funakoshi, who renamed them Heian and reversed the order of the first two. Korean instructors, including Hwang Kee of Moo Duk Kwan, learned versions of these Pattern Sets (often from Japanese texts and teachers who had trained in Japan) and kept the Korean name Pyung Ahn.
+The five Pattern Sets were created by Okinawan master Anko Itosu (Itosu Yasutsune) around 1900–1905. He simplified material from older Pattern Sets such as Channan (Jae Nam) and Kusanku (Kong Sang Koon / Kushanku) so they could be taught to schoolchildren. They were later carried to Japan by Gichin Funakoshi, who renamed them Heian and reversed the order of the first two. Korean instructors, including Hwang Kee of Moo Duk Kwan, learned versions of these Pattern Sets (often from Japanese texts and teachers who had trained in Japan) and kept the Korean name Pyung Ahn.
 
 “Pyung Ahn” is the Korean reading of the same Chinese characters (平安) used for Okinawan Pinan and Japanese Heian. It is usually translated as “peaceful and confident,” “peaceful mind,” or “peace and safety.”
 
@@ -64,7 +64,7 @@ Bassai (you’ll also see Bassi, Passai, Patsai, Pal Che, Pal Sek) is one of the
 
 Early books by Funakoshi (1922) and Motobu Chōki (1926) still write Passai. By the mid-1930s Funakoshi had switched to Bassai and the characters 拔塞. In Chinese those can mean “seize a strongpoint”; in Japanese they are often read as pulling out a plug or breaking through a barrier. Other theories exist: Akio Kinjo linked the sound to Fujian “leopard-lion” boxing; some point to Hokkien pa sai (“beat the lion”) from lion-dance movement. None of those origins is proven. The fortress reading stuck because it matches how the Pattern Set is performed: strong, sudden breaking of a defense.
 
-Ankō Itosu took the Shuri/Tomari material he knew and produced the versions that dominate modern practice. He is generally credited with shaping Passai Dai (major / “old”) and creating or isolating Passai Sho (minor / “young”). Dai is the longer, better-known Pattern Set; Sho is shorter and often uses more open-hand and grasping work. Whether Sho is a cut-down Dai, a separate old Pattern Set, or Itosu’s own composition is still argued. He put Passai into the Okinawan school curriculum after the Pinan, so it became a standard intermediate kata.
+Ankō Itosu took the Shuri/Tomari material he knew and produced the versions that dominate modern practice. He is generally credited with shaping Passai Dai (major / “old”) and creating or isolating Passai Sho (minor / “young”). Dai is the longer, better-known Pattern Set; Sho is shorter and often uses more open-hand and grasping work. Whether Sho is a cut-down Dai, a separate old Pattern Set, or Itosu’s own composition is still argued. He put Passai into the Okinawan school curriculum after the Pinan, so it became a standard intermediate Pattern Set.
 
 Korean kwan founders who had trained in Shotokan or related Japanese karate brought the Pattern Set home. In Tang Soo Do it is Bassai or Pal Che / Pal Sek (팔쇄), usually placed after the five Pyung Ahn Pattern Sets and before or alongside Naihanchi.
 
@@ -76,11 +76,11 @@ Description not yet supplied.
 
 ## Naihanchi Pattern Sets
 
-Naihanchi (also spelled Naifanchi or Naifanchin) is one of the oldest and most important kata families in Okinawan karate. In Shotokan it was renamed Tekki (“iron horse”). In Korean systems such as Tang Soo Do it is usually called Naihanchi or Chul-Gi / Cheolgi. There are three Pattern Sets: Cho Dan / Shodan, Ee Dan / Nidan, and Sam Dan / Sandan. Almost the entire series is done in horse stance, moving side to side on a single line.
+Naihanchi (also spelled Naifanchi or Naifanchin) is one of the oldest and most important Pattern Set families in Okinawan karate. In Shotokan it was renamed Tekki (“iron horse”). In Korean systems such as Tang Soo Do it is usually called Naihanchi or Chul-Gi / Cheolgi. There are three Pattern Sets: Cho Dan / Shodan, Ee Dan / Nidan, and Sam Dan / Sandan. Almost the entire series is done in horse stance, moving side to side on a single line.
 
-The original meaning of the name is unknown. It is usually written in katakana, which marks it as a foreign (likely Chinese) word, not a Japanese phrase like “fight on a rice-paddy dike.” No surviving Chinese Pattern Set has been proven to be the parent kata, even though Motobu Chōki wrote that it came from China and was no longer practiced there.
+The original meaning of the name is unknown. It is usually written in katakana, which marks it as a foreign (likely Chinese) word, not a Japanese phrase like “fight on a rice-paddy dike.” No surviving Chinese Pattern Set has been proven to be the parent Pattern Set, even though Motobu Chōki wrote that it came from China and was no longer practiced there.
 
-The first written references are early 20th-century: Funakoshi’s 1922 book still calls it Naihanchi; Motobu’s 1926 book does the same. Before Itosu created the Pinan (Pyung Ahn / Heian) kata for schools, Naihanchi was often the first Pattern Set taught in Shuri-te and Tomari-te. Kentsu Yabu, a student of Itosu, told students that “karate begins and ends with Naihanchi” and that they should practice it 10,000 times. Motobu, a noted fighter, said the kata contained everything needed for real fighting.
+The first written references are early 20th-century: Funakoshi’s 1922 book still calls it Naihanchi; Motobu’s 1926 book does the same. Before Itosu created the Pinan (Pyung Ahn / Heian) Pattern Set for schools, Naihanchi was often the first Pattern Set taught in Shuri-te and Tomari-te. Kentsu Yabu, a student of Itosu, told students that “karate begins and ends with Naihanchi” and that they should practice it 10,000 times. Motobu, a noted fighter, said the Pattern Set contained everything needed for real fighting.
 
 ### Naihanchi Cho-Dan (나이한치 초단)
 
