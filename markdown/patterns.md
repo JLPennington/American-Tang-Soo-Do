@@ -2,7 +2,7 @@
 
 **Draft.** Names listed from the Curriculum Progression draft. Descriptions and shared history are added as they are supplied. Not complete or official.
 
-American Tang Soo Do utilizes classical Pattern Sets in training. Pattern Sets are commonly known as “forms,” which are prearranged sets of movements that are practiced repeatedly to develop skill in the coordination of movement. In simple terms, Pattern Sets are about the movement of structure. All Pattern Sets utilized in American Tang Soo Do are based upon classical Korean Pattern Sets.
+American Tang Soo Do utilizes classical Pattern Sets in training. Pattern Sets are prearranged sets of movements that are practiced repeatedly to develop skill in the coordination of movement. In simple terms, Pattern Sets are about the movement of structure. All Pattern Sets utilized in American Tang Soo Do are based upon classical Korean Pattern Sets.
 
 Names below follow the Curriculum Progression draft, in order. Shared history for a group of Pattern Sets appears once above that group. Each Pattern Set is listed as a heading with its description underneath. Leave a description blank rather than guessing.
 
@@ -14,7 +14,7 @@ Teaches basic movement, turning, defense, and punching. Utilized to prepare whit
 
 ## Pyung Ahn Pattern Sets
 
-The five forms were created by Okinawan master Anko Itosu (Itosu Yasutsune) around 1900–1905. He simplified material from older kata such as Channan (Jae Nam) and Kusanku (Kong Sang Koon / Kushanku) so they could be taught to schoolchildren. They were later carried to Japan by Gichin Funakoshi, who renamed them Heian and reversed the order of the first two. Korean instructors, including Hwang Kee of Moo Duk Kwan, learned versions of these forms (often from Japanese texts and teachers who had trained in Japan) and kept the Korean name Pyung Ahn.
+The five Pattern Sets were created by Okinawan master Anko Itosu (Itosu Yasutsune) around 1900–1905. He simplified material from older kata such as Channan (Jae Nam) and Kusanku (Kong Sang Koon / Kushanku) so they could be taught to schoolchildren. They were later carried to Japan by Gichin Funakoshi, who renamed them Heian and reversed the order of the first two. Korean instructors, including Hwang Kee of Moo Duk Kwan, learned versions of these Pattern Sets (often from Japanese texts and teachers who had trained in Japan) and kept the Korean name Pyung Ahn.
 
 “Pyung Ahn” is the Korean reading of the same Chinese characters (平安) used for Okinawan Pinan and Japanese Heian. It is usually translated as “peaceful and confident,” “peaceful mind,” or “peace and safety.”
 
@@ -22,23 +22,23 @@ The five forms were created by Okinawan master Anko Itosu (Itosu Yasutsune) arou
 
 **Peaceful Confidence 1**
 
-The first form in the series and the first that asks students to do more than one technique on a single count. It keeps an I-shaped floor pattern similar to Basic Pattern Set. Typical length is about 22 movements.
+The first Pattern Set in the series and the first that asks students to do more than one technique on a single count. It keeps an I-shaped floor pattern similar to Basic Pattern Set. Typical length is about 22 movements.
 
-It mixes familiar low blocks and middle punches with new open-hand work: low knife-hand blocks, a wrist-turn/hammer motion after a low block, high blocks, and 45-degree knife-hand cuts. The point is basic combinations, angles, and the idea that a form can contain linked self-defense sequences, not just single techniques.
+It mixes familiar low blocks and middle punches with new open-hand work: low knife-hand blocks, a wrist-turn/hammer motion after a low block, high blocks, and 45-degree knife-hand cuts. The point is basic combinations, angles, and the idea that a Pattern Set can contain linked self-defense sequences, not just single techniques.
 
 ### Pyung Ahn Ee Dan (평안 이단)
 
 **Peaceful Confidence 2**
 
-The second form. It is longer than Cho Dan (often about 29–31 movements) and introduces more fighting-stance / back-stance work.
+The second Pattern Set. It is longer than Cho Dan (often about 29–31 movements) and introduces more fighting-stance / back-stance work.
 
-Signature opening: simultaneous high block and outward block in a back stance, followed by a pulling motion and uppercut-style strike. It emphasizes middle knife-hand blocks in back stance, and it is one of the first color-belt forms to use a side kick (often counted as two motions: chamber, then kick). A kihap commonly falls on the last technique. Students start dealing with grabs, pulls, and attacks from the side rather than only straight-line punches. Corresponds roughly to Heian Shodan / Pinan Shodan in many Shotokan-derived lists (the reverse of Cho Dan).
+Signature opening: simultaneous high block and outward block in a back stance, followed by a pulling motion and uppercut-style strike. It emphasizes middle knife-hand blocks in back stance, and it is one of the first color-belt Pattern Sets to use a side kick (often counted as two motions: chamber, then kick). A kihap commonly falls on the last technique. Students start dealing with grabs, pulls, and attacks from the side rather than only straight-line punches. Corresponds roughly to Heian Shodan / Pinan Shodan in many Shotokan-derived lists (the reverse of Cho Dan).
 
 ### Pyung Ahn Sam Dan (평안 삼단)
 
 **Peaceful Confidence 3**
 
-The third form and often the shortest of the five (about 27 movements). The floor pattern shifts toward an inverted T rather than a full I, so there are fewer long line-of-direction steps.
+The third Pattern Set and often the shortest of the five (about 27 movements). The floor pattern shifts toward an inverted T rather than a full I, so there are fewer long line-of-direction steps.
 
 Its recognizable sequence is a series of outside-to-inside kicks into sideways elbow blocks and hammerfist strikes, plus spinning/back-hammer motions and work in horse stance. Applications are often taught as responses to clinches, grabs, and attacks from a “bad position” rather than a clean ready stance. Corresponds to Pinan/Heian Sandan.
 
@@ -46,7 +46,7 @@ Its recognizable sequence is a series of outside-to-inside kicks into sideways e
 
 **Peaceful Confidence 4**
 
-The fourth form (about 29–31 movements). It opens like Ee Dan but with open hands: simultaneous high knife-hand and middle knife-hand blocks.
+The fourth Pattern Set (about 29–31 movements). It opens like Ee Dan but with open hands: simultaneous high knife-hand and middle knife-hand blocks.
 
 New material includes a low X-block, reinforced two-arm blocks, side kicks and thrusting kicks, a hop or skip into a tight stance, large crossing “X” hand motions that close into grabs, a knee strike while pulling the opponent down, and finishing double knife-hand blocks on angles. It starts to feel more advanced: grabbing, pulling, kicking while the hands stay busy, and changing direction sharply. Corresponds to Pinan/Heian Yondan.
 
@@ -54,9 +54,9 @@ New material includes a low X-block, reinforced two-arm blocks, side kicks and t
 
 **Peaceful Confidence 5**
 
-The last and most involved form of the series (about 28–30 movements). It is the one students usually remember for athleticism and unusual stances.
+The last and most involved Pattern Set of the series (about 28–30 movements). It is the one students usually remember for athleticism and unusual stances.
 
-Key features: sliding double-arm work, low then high X-blocks, a target crescent kick into an elbow strike in horse stance, cross-legged / twisted stances, and a jump that lands in a low crossed-leg stance with a double-arm low X-block. There is also a high “mountain” block near the end. The form trains timing, dropping the center, and linking blocks, kicks, and locks in one breath. Corresponds to Pinan/Heian Godan.
+Key features: sliding double-arm work, low then high X-blocks, a target crescent kick into an elbow strike in horse stance, cross-legged / twisted stances, and a jump that lands in a low crossed-leg stance with a double-arm low X-block. There is also a high “mountain” block near the end. The Pattern Set trains timing, dropping the center, and linking blocks, kicks, and locks in one breath. Corresponds to Pinan/Heian Godan.
 
 ## Bassi’s
 
@@ -66,17 +66,17 @@ Description not yet supplied.
 
 ## Naihanchi Pattern Sets
 
-Naihanchi (also spelled Naifanchi or Naifanchin) is one of the oldest and most important kata families in Okinawan karate. In Shotokan it was renamed Tekki (“iron horse”). In Korean systems such as Tang Soo Do it is usually called Naihanchi or Chul-Gi / Cheolgi. There are three forms: Cho Dan / Shodan, Ee Dan / Nidan, and Sam Dan / Sandan. Almost the entire series is done in horse stance, moving side to side on a single line.
+Naihanchi (also spelled Naifanchi or Naifanchin) is one of the oldest and most important kata families in Okinawan karate. In Shotokan it was renamed Tekki (“iron horse”). In Korean systems such as Tang Soo Do it is usually called Naihanchi or Chul-Gi / Cheolgi. There are three Pattern Sets: Cho Dan / Shodan, Ee Dan / Nidan, and Sam Dan / Sandan. Almost the entire series is done in horse stance, moving side to side on a single line.
 
-The original meaning of the name is unknown. It is usually written in katakana, which marks it as a foreign (likely Chinese) word, not a Japanese phrase like “fight on a rice-paddy dike.” No surviving Chinese form has been proven to be the parent kata, even though Motobu Chōki wrote that it came from China and was no longer practiced there.
+The original meaning of the name is unknown. It is usually written in katakana, which marks it as a foreign (likely Chinese) word, not a Japanese phrase like “fight on a rice-paddy dike.” No surviving Chinese Pattern Set has been proven to be the parent kata, even though Motobu Chōki wrote that it came from China and was no longer practiced there.
 
-The first written references are early 20th-century: Funakoshi’s 1922 book still calls it Naihanchi; Motobu’s 1926 book does the same. Before Itosu created the Pinan (Pyung Ahn / Heian) kata for schools, Naihanchi was often the first form taught in Shuri-te and Tomari-te. Kentsu Yabu, a student of Itosu, told students that “karate begins and ends with Naihanchi” and that they should practice it 10,000 times. Motobu, a noted fighter, said the kata contained everything needed for real fighting.
+The first written references are early 20th-century: Funakoshi’s 1922 book still calls it Naihanchi; Motobu’s 1926 book does the same. Before Itosu created the Pinan (Pyung Ahn / Heian) kata for schools, Naihanchi was often the first Pattern Set taught in Shuri-te and Tomari-te. Kentsu Yabu, a student of Itosu, told students that “karate begins and ends with Naihanchi” and that they should practice it 10,000 times. Motobu, a noted fighter, said the kata contained everything needed for real fighting.
 
 ### Naihanchi Cho-Dan (나이한치 초단)
 
 This is the original Naihanchi. Nidan and Sandan were added later (most sources credit Ankō Itosu). In Tang Soo Do it is often listed around 27–33 movements. Shotokan Tekki Shodan is commonly counted at about 25–29.
 
-Unlike the Kee Cho and Pyung Ahn forms, Cho Dan usually starts by moving to the right. The ready position is also distinctive: one hand covers the other (often left open hand over right fist), then the hands drop as the first step is taken.
+Unlike the Kee Cho and Pyung Ahn Pattern Sets, Cho Dan usually starts by moving to the right. The ready position is also distinctive: one hand covers the other (often left open hand over right fist), then the hands drop as the first step is taken.
 
 Signature work includes:
 
@@ -86,11 +86,11 @@ Signature work includes:
 - Nami-gaeshi (returning-wave kick): the foot lifts inward toward the opposite knee, then stamps or sweeps back down—used as a low check, inner-leg sweep, or stomp
 - Crossing steps that keep the head height level
 
-The form is symmetrical. The training goal is a rooted horse stance, sharp head turns, and power from a short distance. Many schools treat this as the “real” Naihanchi and the other two as elaborations of the same principles.
+The Pattern Set is symmetrical. The training goal is a rooted horse stance, sharp head turns, and power from a short distance. Many schools treat this as the “real” Naihanchi and the other two as elaborations of the same principles.
 
 ### Naihanchi Ee-Dan (나이한치 이단)
 
-The second form (about 24–30 movements) is often described as more rhythmical than Cho Dan. It is widely attributed to Itosu rather than to the older Matsumura version.
+The second Pattern Set (about 24–30 movements) is often described as more rhythmical than Cho Dan. It is widely attributed to Itosu rather than to the older Matsumura version.
 
 It keeps the same side-to-side horse-stance line, but the opening and the arm work change. Typical features:
 
@@ -101,7 +101,7 @@ It keeps the same side-to-side horse-stance line, but the opening and the arm wo
 - Repeated rising and dropping of the knee while the hands reset into kamae
 - The same crossing-step travel as Cho Dan
 
-Where Cho Dan teaches the basic engine of Naihanchi—stance, hook, wave kick, backfist—Ee Dan emphasizes supported arms, elbows, and a clearer beat between techniques. In many curricula it is a first-dan form.
+Where Cho Dan teaches the basic engine of Naihanchi—stance, hook, wave kick, backfist—Ee Dan emphasizes supported arms, elbows, and a clearer beat between techniques. In many curricula it is a first-Dan Pattern Set.
 
 ### Naihanchi Sam-Dan (나이한치 삼단)
 
