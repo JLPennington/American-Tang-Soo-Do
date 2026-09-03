@@ -126,11 +126,31 @@ Distinctive material:
 - Frequent cross-legged steps in and out of horse stance
 - Faster timing than Cho Dan or Ee Dan
 
-## Further Pattern Sets
+## Ship Soo
 
-### Ship Soo
+Ship Soo (십수), also spelled Sip Soo or Sip Su, is the Korean name for the Okinawan/Japanese Pattern Set Jitte or Jutte (十手). The characters mean “ten hands.” In Tang Soo Do it is an advanced Pattern Set, usually taught after Bassai and Naihanchi. Some Moo Duk Kwan schools symbolize it with the bear. Shotokan counts it at about 24–27 movements; it is short for a Dan-level Pattern Set.
+
+**What the name means**
+
+The usual explanation is that a person who masters the Pattern Set fights with the power of ten hands, or can face ten opponents. A simpler reading is that it collects ten ways of using the hands.
+
+**Jion, Jiin, and Jitte**
+
+Jitte is almost always discussed with Jion and Jiin. All three start from the same covered-fist ready position (right fist in the left palm), a salute often called Chinese or “Ming.” They share some early motions and a heavy, upright feeling, so they were long treated as a temple set. The ji sounds, however, use different characters: 十 (ten) in Jitte, 時 (time/temple) in Jion, 慈 (compassion) in Jiin. Modern researchers doubt they were originally one series; they may only have been grouped later because of the opening and the sound of the names. Funakoshi left these three names alone when he Japanized most other Pattern Sets.
+
+**Tomari and a Chinese teacher**
+
+The usual origin is Tomari-te, the port village next to Shuri, with Chinese influence. There is no document that predates the generation of Matsumura / Itosu. Some writers think Itosu created or heavily reshaped it; others treat it as an older Tomari Pattern Set that he passed on with little change.
+
+The main written clue is Gichin Funakoshi’s 1914 newspaper piece, repeating what he said he heard from Ankō Asato: a shipwrecked Chinese from Anan / Fujian taught several Tomari men different Pattern Sets because he was in a hurry to go home. In that list, Nakasato of Tomari learned Jitte; others received Chinto, Chinte, and Jiin. That story is oral, and the teacher is not named in any official record. It is the same kind of “stranded Chinese” tradition attached to Chinto and a few other Tomari Pattern Sets.
+
+From Tomari the Pattern Set entered the Itosu curriculum (Itosu also trained with Tomari teachers such as Gusukuma). Funakoshi learned it there, put it in his early books, and taught it in Shotokan as Jitte. Shito-ryu keeps it as an Itosu-line Pattern Set. It is not a core Naha-te Pattern Set, though some versions use a sanchin-like stance at the start, which is unusual for Shuri/Tomari Pattern Sets. Korean Kwan founders who had trained in Shotokan or related Japanese karate brought Jitte to Korea as Ship Soo.
+
+### Ship Soo (십수)
 
 Description not yet supplied.
+
+## Further Pattern Sets
 
 ### Jin Do
 
