@@ -254,6 +254,20 @@ td.tbd {
   font-style: italic;
 }
 
+td .note {
+  font-weight: 400;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+td p {
+  margin: 0;
+}
+
+td p + p {
+  margin-top: 0.75em;
+}
+
 @media (max-width: 720px) {
   .docs {
     grid-template-columns: 1fr;
