@@ -68,7 +68,7 @@ Ankō Itosu took the Shuri/Tomari material he knew and produced the versions tha
 
 Korean kwan founders who had trained in Shotokan or related Japanese karate brought the Pattern Set home. In Tang Soo Do it is Bassai or Pal Che / Pal Sek (팔쇄), usually placed after the five Pyung Ahn Pattern Sets and before or alongside Naihanchi.
 
-“Bassi” in a Tang Soo Do context is the Korean descendant of Okinawan Passai, standardized through Itosu, renamed Bassai by Funakoshi, and kept as a major intermediate hyung for storming a defense rather than as a beginner Pattern Set like the Pyung Ahn set.
+“Bassi” in a Tang Soo Do context is the Korean descendant of Okinawan Passai, standardized through Itosu, renamed Bassai by Funakoshi, and kept as a major intermediate Pattern Set for storming a defense rather than as a beginner Pattern Set like the Pyung Ahn set.
 
 ### Bassi
 
