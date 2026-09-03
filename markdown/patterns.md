@@ -58,7 +58,7 @@ The last and most involved Pattern Set of the series (about 28–30 movements). 
 
 Key features: sliding double-arm work, low then high X-blocks, a target crescent kick into an elbow strike in horse stance, cross-legged / twisted stances, and a jump that lands in a low crossed-leg stance with a double-arm low X-block. There is also a high “mountain” block near the end. The Pattern Set trains timing, dropping the center, and linking blocks, kicks, and locks in one breath. Corresponds to Pinan/Heian Godan.
 
-## Bassi’s
+## Bassi
 
 Bassai (you’ll also see Bassi, Passai, Patsai, Pal Che, Pal Sek) is one of the oldest and most widely practiced Pattern Sets in Okinawan karate, Japanese karate, Tang Soo Do, and some traditional taekwondo. The usual English gloss is “to storm a fortress,” “to extract from a fortress,” or “to remove an obstruction.” That meaning comes from the kanji Gichin Funakoshi later attached to the name; the original Okinawan word Passai had no fixed characters and no agreed translation.
 
@@ -70,7 +70,7 @@ Korean kwan founders who had trained in Shotokan or related Japanese karate brou
 
 “Bassi” in a Tang Soo Do context is the Korean descendant of Okinawan Passai, standardized through Itosu, renamed Bassai by Funakoshi, and kept as a major intermediate hyung for storming a defense rather than as a beginner Pattern Set like the Pyung Ahn set.
 
-### Bassi’s
+### Bassi
 
 Description not yet supplied.
 
