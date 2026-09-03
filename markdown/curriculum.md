@@ -2,7 +2,7 @@
 
 **Draft.** Updated outline of a linear curriculum progression. Not complete or official.
 
-**Testing and certificates.** No testing is required until Dark Blue. Advancement in rank is based on the student’s observed performance during training sessions. Certificates are issued only for Dan ranks. No testing fees are charged.
+**Testing and certificates.** No testing is required until Dark Blue belt. Advancement in rank is based on the student’s observed performance during training sessions. Certificates are issued only for Dan ranks. No testing fees are charged.
 
 High-level view of what a person will learn, in order. Content below is from the current draft.
 
@@ -56,7 +56,7 @@ High-level view of what a person will learn, in order. Content below is from the
 - Outward wrist lock
 - Inward wrist lock
 
-### Requirements to advance to Dark Blue
+### Requirements to advance to Dark Blue belt
 
 - Ability to perform all Pattern Sets learned from the start of training through the current rank without correction.
 - Ability to perform all One Step Sparring learned from the start of training through the current rank without correction.
@@ -64,9 +64,9 @@ High-level view of what a person will learn, in order. Content below is from the
 - The student is responsible for all material learned from the start of training through the current rank.
 - Ability to explain and demonstrate the purpose of each Pattern Set when asked about a specific portion of a Pattern Set.
 
-## Dark Blue (test required)
+## Dark Blue belt (test required)
 
-Two Step Sparring is introduced at Dark Blue. This is the only additional concept the student will be exposed to until 1st Dan.
+Two Step Sparring is introduced at Dark Blue belt. This is the only additional concept the student will be exposed to until 1st Dan.
 
 ### Requirements to advance to 1st Dan
 
