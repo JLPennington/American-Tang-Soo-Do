@@ -4,13 +4,13 @@
 
 American Tang Soo Do utilizes classical Pattern Sets in training. Pattern Sets are commonly known as “forms,” which are prearranged sets of movements that are practiced repeatedly to develop skill in the coordination of movement. In simple terms, Pattern Sets are about the movement of structure. All Pattern Sets utilized in American Tang Soo Do are based upon classical Korean Pattern Sets.
 
-Names below follow the Curriculum Progression draft, in order. Shared history for a group of Pattern Sets appears once above that group. Per–Pattern Set Notes stay blank until supplied. Leave a Notes cell blank rather than guessing.
+Names below follow the Curriculum Progression draft, in order. Shared history for a group of Pattern Sets appears once above that group. Each Pattern Set is listed as a heading with its description underneath. Leave a description blank rather than guessing.
 
 ## Basic Pattern Set
 
-| Name | Notes |
-| --- | --- |
-| Basic Pattern Set | Teaches basic movement, turning, defense, and punching. Utilized to prepare white belts for more complex concepts. |
+### Basic Pattern Set
+
+Teaches basic movement, turning, defense, and punching. Utilized to prepare white belts for more complex concepts.
 
 ## Pyung Ahn Pattern Sets
 
@@ -60,12 +60,30 @@ Key features: sliding double-arm work, low then high X-blocks, a target crescent
 
 ## Further Pattern Sets
 
-| Name | Notes |
-| --- | --- |
-| Bassi’s | |
-| Naihanchi Cho-Dan | |
-| Naihanchi Ee-Dan | |
-| Naihanchi Sam-Dan | |
-| Ship Soo | |
-| Jin Do | |
-| Kong Sang Koon | |
+### Bassi’s
+
+Description not yet supplied.
+
+### Naihanchi Cho-Dan
+
+Description not yet supplied.
+
+### Naihanchi Ee-Dan
+
+Description not yet supplied.
+
+### Naihanchi Sam-Dan
+
+Description not yet supplied.
+
+### Ship Soo
+
+Description not yet supplied.
+
+### Jin Do
+
+Description not yet supplied.
+
+### Kong Sang Koon
+
+Description not yet supplied.
