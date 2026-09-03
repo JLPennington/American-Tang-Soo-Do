@@ -45,7 +45,7 @@ High-level view of what a person will learn, in order. Content below is from the
 
 ## Brown Belt
 
-- Bassi’s
+- Bassi
 - Fall training
 
 ### One Step Sparring
