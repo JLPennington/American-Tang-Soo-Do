@@ -150,9 +150,34 @@ From Tomari the Pattern Set entered the Itosu curriculum (Itosu also trained wit
 
 Description not yet supplied.
 
-## Further Pattern Sets
+## Jin Do
 
-### Jin Do
+Jin Do (진도), also written Jin Toe / Jin Tae, is the Korean name for the Okinawan Pattern Set Chintō (鎮東). In Shotokan it is Gankaku (岩鶴), “crane on a rock.” It is an advanced Pattern Set known for one-legged stances, quick changes of direction, and a diagonal or back-and-forth line of movement. Tang Soo Do schools often symbolize it with the white crane and count about 40–44 movements.
+
+**The name**
+
+Chintō is usually glossed as “fighter to the east,” “quelling the east,” or taken as a person’s name. Funakoshi renamed it Gankaku after the crane-stance sequences, and to give the Pattern Set a Japanese name without a “war” flavor. In Tang Soo Do, Jin is sometimes read as advance and Toe as retreat—attack and withdraw—which fits the Pattern Set’s in-and-out timing better than it fits the original characters. Some teachers say it should be performed facing east because of the name; that is tradition, not a documented rule.
+
+**The shipwreck story**
+
+The popular legend: a Chinese sailor or pirate called Chintō (sometimes Anan / Annan) was wrecked on Okinawa, hid in a cave, and stole crops. The king sent Sōkon “Bushi” Matsumura to stop him. They fought to a draw. Matsumura fed him and learned his methods; when the Chinese left, Matsumura built a Pattern Set and named it after him.
+
+That story is late and mixed. There are no 19th-century records of a Pattern Set named Chintō. The earliest useful written note is Funakoshi’s 1914 Ryukyu Shimpo article, based on what Ankō Asato told him: a castaway from Anan in Fuzhou taught several Tomari men different Pattern Sets because he was in a hurry to go home. In that list, Gusukuma and Kanagusuku learned Chintō—not Matsumura. Matsumura and Oyadomari are named for Chinte, not Chintō. The “Matsumura fights the pirate in a cave” version grew later and blends that Anan story with other cave legends (including ones attached to Kosaku Matsumora). Treat it as folklore built around a real Tomari–Chinese contact, not as a documented duel.
+
+A possible Chinese cousin is Chen Tou (“sink the head”) in Fujian Five Ancestors Fist (Wu Zu Quan). The opening of Okinawan Chintō—dropping to cover the head—resembles that idea, but no one has shown a matching parent Pattern Set.
+
+**How it actually spread**
+
+Chintō was known in both Tomari-te and Shuri-te.
+
+- Tomari: Kosaku Matsumora is repeatedly named as an early teacher. His line goes to Kotatsu Iha and Chōtoku Kyan. Kyan’s Chintō (often on a 45-degree line) passed into Matsubayashi-ryu, Seibukan, Isshin-ryu, and related schools.
+- Shuri / Itosu: Ankō Itosu likely got it from Tomari teachers such as Gusukuma (Funakoshi says Itosu studied with Gusukuma). Itosu’s version travels front to back. Funakoshi took that line to Japan, straightened the embusen further, swapped some front kicks for side kicks, and called it Gankaku. Shito-ryu and Kobayashi Shorin-ryu keep Itosu-style Chintō.
+
+So there are at least three living families: Matsumura/Itosu (linear), Matsumora (side to side), and Kyan (diagonal). They are clearly the same Pattern Set, not the same performance.
+
+Korean Kwan founders who had trained in Shotokan or related Japanese karate brought Gankaku/Chintō to Korea as Jin Do.
+
+### Jin Do (진도)
 
 Description not yet supplied.
 
