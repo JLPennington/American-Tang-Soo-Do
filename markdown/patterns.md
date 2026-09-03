@@ -72,17 +72,49 @@ The original meaning of the name is unknown. It is usually written in katakana, 
 
 The first written references are early 20th-century: Funakoshi’s 1922 book still calls it Naihanchi; Motobu’s 1926 book does the same. Before Itosu created the Pinan (Pyung Ahn / Heian) kata for schools, Naihanchi was often the first form taught in Shuri-te and Tomari-te. Kentsu Yabu, a student of Itosu, told students that “karate begins and ends with Naihanchi” and that they should practice it 10,000 times. Motobu, a noted fighter, said the kata contained everything needed for real fighting.
 
-### Naihanchi Cho-Dan
+### Naihanchi Cho-Dan (나이한치 초단)
 
-Description not yet supplied.
+This is the original Naihanchi. Nidan and Sandan were added later (most sources credit Ankō Itosu). In Tang Soo Do it is often listed around 27–33 movements. Shotokan Tekki Shodan is commonly counted at about 25–29.
 
-### Naihanchi Ee-Dan
+Unlike the Kee Cho and Pyung Ahn forms, Cho Dan usually starts by moving to the right. The ready position is also distinctive: one hand covers the other (often left open hand over right fist), then the hands drop as the first step is taken.
 
-Description not yet supplied.
+Signature work includes:
 
-### Naihanchi Sam-Dan
+- Elbow strike while turning the torso in horse stance
+- Low block into a hook punch (kagi-zuki)
+- Inside block and vertical backfist
+- Nami-gaeshi (returning-wave kick): the foot lifts inward toward the opposite knee, then stamps or sweeps back down—used as a low check, inner-leg sweep, or stomp
+- Crossing steps that keep the head height level
 
-Description not yet supplied.
+The form is symmetrical. The training goal is a rooted horse stance, sharp head turns, and power from a short distance. Many schools treat this as the “real” Naihanchi and the other two as elaborations of the same principles.
+
+### Naihanchi Ee-Dan (나이한치 이단)
+
+The second form (about 24–30 movements) is often described as more rhythmical than Cho Dan. It is widely attributed to Itosu rather than to the older Matsumura version.
+
+It keeps the same side-to-side horse-stance line, but the opening and the arm work change. Typical features:
+
+- A different ready stance from Cho Dan (usually a standard junbi, not the stacked-hands start)
+- “Wall” or reinforced blocks as you settle into horse stance
+- Strong elbow sequences (a favorite application section in many Tang Soo Do schools)
+- Low strikes that meet the supporting arm at the elbow
+- Repeated rising and dropping of the knee while the hands reset into kamae
+- The same crossing-step travel as Cho Dan
+
+Where Cho Dan teaches the basic engine of Naihanchi—stance, hook, wave kick, backfist—Ee Dan emphasizes supported arms, elbows, and a clearer beat between techniques. In many curricula it is a first-dan form.
+
+### Naihanchi Sam-Dan (나이한치 삼단)
+
+The last and busiest of the three (about 33–40 movements in Korean lists; Tekki Sandan is often counted near 33–36). It is the most combination-heavy: several techniques fire in a row with little pause.
+
+Distinctive material:
+
+- Simultaneous inside block and low block
+- Forearm dropping strikes, twists, and swinging low blocks
+- Heavy use of the supporting / covering hand (soete): the second hand is not decoration—it traps, pins, or grabs
+- Vertical backfist and hip-chamber punches threaded through those covers
+- Frequent cross-legged steps in and out of horse stance
+- Faster timing than Cho Dan or Ee Dan
 
 ## Further Pattern Sets
 
