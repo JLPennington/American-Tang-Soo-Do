@@ -174,6 +174,54 @@ article h1 {
   max-width: 40rem;
 }
 
+.pattern-list {
+  max-width: 42rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+  margin: 0.5rem 0 1.5rem;
+}
+
+.pattern-entry {
+  padding: 1.25rem 0;
+  border-bottom: 1px solid var(--line);
+}
+
+.pattern-entry:first-child {
+  padding-top: 0.25rem;
+}
+
+.pattern-entry:last-child {
+  border-bottom: 0;
+  padding-bottom: 0;
+}
+
+.pattern-entry h3 {
+  font-size: 1.05rem;
+  font-weight: 650;
+  margin: 0 0 0.4rem;
+  line-height: 1.35;
+}
+
+.pattern-entry h3 .note {
+  font-weight: 400;
+  color: var(--muted);
+  font-size: 0.9rem;
+}
+
+.pattern-entry .pattern-subtitle {
+  font-weight: 600;
+  margin: 0 0 0.65rem;
+}
+
+.pattern-entry .prose {
+  margin: 0;
+}
+
+.pattern-entry .tbd-note {
+  margin: 0.15rem 0 0;
+}
+
 .progression {
   max-width: 40rem;
   list-style: decimal;
