@@ -58,11 +58,19 @@ The last and most involved form of the series (about 28–30 movements). It is t
 
 Key features: sliding double-arm work, low then high X-blocks, a target crescent kick into an elbow strike in horse stance, cross-legged / twisted stances, and a jump that lands in a low crossed-leg stance with a double-arm low X-block. There is also a high “mountain” block near the end. The form trains timing, dropping the center, and linking blocks, kicks, and locks in one breath. Corresponds to Pinan/Heian Godan.
 
-## Further Pattern Sets
+## Bassi’s
 
 ### Bassi’s
 
 Description not yet supplied.
+
+## Naihanchi Pattern Sets
+
+Naihanchi (also spelled Naifanchi or Naifanchin) is one of the oldest and most important kata families in Okinawan karate. In Shotokan it was renamed Tekki (“iron horse”). In Korean systems such as Tang Soo Do it is usually called Naihanchi or Chul-Gi / Cheolgi. There are three forms: Cho Dan / Shodan, Ee Dan / Nidan, and Sam Dan / Sandan. Almost the entire series is done in horse stance, moving side to side on a single line.
+
+The original meaning of the name is unknown. It is usually written in katakana, which marks it as a foreign (likely Chinese) word, not a Japanese phrase like “fight on a rice-paddy dike.” No surviving Chinese form has been proven to be the parent kata, even though Motobu Chōki wrote that it came from China and was no longer practiced there.
+
+The first written references are early 20th-century: Funakoshi’s 1922 book still calls it Naihanchi; Motobu’s 1926 book does the same. Before Itosu created the Pinan (Pyung Ahn / Heian) kata for schools, Naihanchi was often the first form taught in Shuri-te and Tomari-te. Kentsu Yabu, a student of Itosu, told students that “karate begins and ends with Naihanchi” and that they should practice it 10,000 times. Motobu, a noted fighter, said the kata contained everything needed for real fighting.
 
 ### Naihanchi Cho-Dan
 
@@ -75,6 +83,8 @@ Description not yet supplied.
 ### Naihanchi Sam-Dan
 
 Description not yet supplied.
+
+## Further Pattern Sets
 
 ### Ship Soo
 
