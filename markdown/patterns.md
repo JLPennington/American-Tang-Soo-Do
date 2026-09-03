@@ -60,6 +60,16 @@ Key features: sliding double-arm work, low then high X-blocks, a target crescent
 
 ## Bassi’s
 
+Bassai (you’ll also see Bassi, Passai, Patsai, Pal Che, Pal Sek) is one of the oldest and most widely practiced Pattern Sets in Okinawan karate, Japanese karate, Tang Soo Do, and some traditional taekwondo. The usual English gloss is “to storm a fortress,” “to extract from a fortress,” or “to remove an obstruction.” That meaning comes from the kanji Gichin Funakoshi later attached to the name; the original Okinawan word Passai had no fixed characters and no agreed translation.
+
+Early books by Funakoshi (1922) and Motobu Chōki (1926) still write Passai. By the mid-1930s Funakoshi had switched to Bassai and the characters 拔塞. In Chinese those can mean “seize a strongpoint”; in Japanese they are often read as pulling out a plug or breaking through a barrier. Other theories exist: Akio Kinjo linked the sound to Fujian “leopard-lion” boxing; some point to Hokkien pa sai (“beat the lion”) from lion-dance movement. None of those origins is proven. The fortress reading stuck because it matches how the Pattern Set is performed: strong, sudden breaking of a defense.
+
+Ankō Itosu took the Shuri/Tomari material he knew and produced the versions that dominate modern practice. He is generally credited with shaping Passai Dai (major / “old”) and creating or isolating Passai Sho (minor / “young”). Dai is the longer, better-known Pattern Set; Sho is shorter and often uses more open-hand and grasping work. Whether Sho is a cut-down Dai, a separate old Pattern Set, or Itosu’s own composition is still argued. He put Passai into the Okinawan school curriculum after the Pinan, so it became a standard intermediate kata.
+
+Korean kwan founders who had trained in Shotokan or related Japanese karate brought the Pattern Set home. In Tang Soo Do it is Bassai or Pal Che / Pal Sek (팔쇄), usually placed after the five Pyung Ahn Pattern Sets and before or alongside Naihanchi.
+
+“Bassi” in a Tang Soo Do context is the Korean descendant of Okinawan Passai, standardized through Itosu, renamed Bassai by Funakoshi, and kept as a major intermediate hyung for storming a defense rather than as a beginner Pattern Set like the Pyung Ahn set.
+
 ### Bassi’s
 
 Description not yet supplied.
