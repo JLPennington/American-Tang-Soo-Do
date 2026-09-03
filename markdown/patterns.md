@@ -136,6 +136,24 @@ Description not yet supplied.
 
 Description not yet supplied.
 
-### Kong Sang Koon
+## Kong Sang Koon
+
+Kong Sang Koon (공상군) is the Korean reading of the characters 公相君. The same Pattern Set is Kūsankū / Kūshankū / Kōshōkun in Okinawa and Kankū (“viewing the sky”) in Shotokan. It is one of the oldest and longest Shuri-te Pattern Sets and the parent of a lot of later material, including much of the Pinan / Pyung Ahn series.
+
+The usual story is that the Pattern Set is named after a Chinese martial artist who came to the Ryukyu Kingdom in the mid-1700s. The main written hook is the Oshima Hikki (1762), a record of a Chinese ship wrecked in Oshima. It mentions a recent visitor called Kung Hsiang Chun (公相君) who demonstrated quan-fa. That visit is tied to the Qing embassy of 1756. He is said to have stayed near Naha (often Kumemura) until about 1761–62.
+
+“Kūsankū / Gongxiangjun” is probably a title, not a personal name. Later writers also use Kwang Shang Fu and similar spellings. There is no primary document that says this man composed the Pattern Set we do today. What we have is the name of the Pattern Set, the Oshima note that such a teacher existed, and Okinawan oral tradition.
+
+Tradition says Kūsankū taught Okinawans, especially Chatan Yara and Kanga “Tode” Sakugawa (1733–1815). Sakugawa already trained under Takahara Pechin; the story is that Takahara sent him to the Chinese teacher. Sakugawa is then credited with assembling those methods into a Pattern Set named for his instructor. A separate old line is Chatan Yara no Kūsankū, which some styles (Matsubayashi-ryu, Isshin-ryu, parts of Shito-ryu) still treat as less altered by later reformers.
+
+Sakugawa taught Sōkon “Bushi” Matsumura, who made the Pattern Set part of Shuri-te. Matsumura taught Ankō Itosu. Itosu is generally credited with splitting the long Pattern Set into Kūsankū Dai (major) and Kūsankū Sho (minor), and with taking pieces of Kusanku (and Channan) to build the five Pinan / Pyung Ahn Pattern Sets for school teaching. That is why Pyung Ahn Sa Dan and Oh Dan still look like excerpts of Kong Sang Koon.
+
+**Japan and Korea**
+
+Gichin Funakoshi learned the Itosu versions, took them to mainland Japan, and in 1935 renamed them Kankū Dai and Kankū Sho—“gazing at the sky”—from the opening movement where the hands rise and the eyes look up through the gap. Kankū Dai was one of his favorite Pattern Sets.
+
+Korean kwan founders who had trained in Shotokan or related Japanese karate brought the Dai Pattern Set home as Kong Sang Koon. Hwang Kee put it into the early Moo Duk Kwan / Tang Soo Do list as an advanced Pattern Set. Most Tang Soo Do schools teach only the long (Dae) version; a few also teach So. In those systems it is often called the eagle Pattern Set and runs about 65–70 movements. It is usually a Dan-level requirement, after Bassai and Naihanchi.
+
+### Kong Sang Koon (공상군)
 
 Description not yet supplied.
