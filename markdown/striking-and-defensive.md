@@ -28,7 +28,7 @@ Curriculum lists. Leave a Notes cell blank rather than guessing.
 | Jump Front Kick | |
 | Jump Roundhouse Kick | |
 | Jump Side Kick | |
-| Jump Back-Pivot | |
+| Jump Back-Pivot Kick | |
 
 ## Stances
 
