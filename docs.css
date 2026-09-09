@@ -266,14 +266,16 @@ article h1 {
   padding-left: 1.25rem;
 }
 
-.technique-list {
-  list-style: disc;
+/* Indent Basic Techniques bullets past the section title edge (* reset zeroes list padding). */
+article ul.technique-list {
+  list-style-type: disc;
+  list-style-position: outside;
+  margin: 0.5rem 0 1.5rem 1.5rem;
   padding-left: 1.5rem;
-  margin: 0.5rem 0 1.5rem;
 }
 
-.technique-list li {
-  margin: 0.25rem 0;
+article ul.technique-list li {
+  margin: 0.3rem 0;
 }
 
 
