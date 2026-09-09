@@ -10,10 +10,8 @@ Public archive
   **Draft.** Updated outline of a linear curriculum progression. Not complete or official.
 - [Pattern Sets](patterns.md)
   **Draft.** Names listed from the Curriculum Progression draft. Descriptions are not yet written.
-- [Striking Techniques](striking.md)
-  **Draft.** The Striking Techniques list is empty. Not complete or official. Entries will be added as they are supplied.
-- [Defensive Techniques](defensive.md)
-  **Draft.** The Defensive Techniques list is empty. Not complete or official. Entries will be added as they are supplied.
+- [Striking and Defensive Techniques](striking-and-defensive.md)
+  **Draft.** Names supplied for Striking Techniques, Stances, Defensive Techniques, and Defense / Offensive Movements. Not complete or official.
 - [Sparring](sparring.md)
   **Draft.** The Sparring list is empty. Not complete or official. Entries will be added as they are supplied.
 - [One and Two Step Sparring](one-two-step-sparring.md)
