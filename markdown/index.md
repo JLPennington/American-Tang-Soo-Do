@@ -11,7 +11,7 @@ Public archive
 - [Pattern Sets](patterns.md)
   **Draft.** Names listed from the Curriculum Progression draft. Descriptions are not yet written.
 - [Basic Techniques](basic-techniques.md)
-  **Draft.** Names supplied for Striking Techniques, Stances, Defensive Techniques, and Defense / Offensive Movements. Not complete or official.
+  Striking Techniques, Stances, Defensive Techniques, and Defense / Offensive Movements.
 - [Sparring](sparring.md)
   **Draft.** The Sparring list is empty. Not complete or official. Entries will be added as they are supplied.
 - [One and Two Step Sparring](one-two-step-sparring.md)
