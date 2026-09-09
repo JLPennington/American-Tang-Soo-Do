@@ -1,5 +1,7 @@
 # Basic Techniques
 
+The following is a list of basic techniques. These techniques are combined to create formations during application. These formations are used defensively or offensively. Moreover, these formations allow one to maintain balance and produce speed and power during movement.
+
 **Draft.** Names supplied for the archive. Not complete or official.
 
 ## Striking Techniques
