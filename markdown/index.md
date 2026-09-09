@@ -13,8 +13,6 @@ Public archive
 - [Basic Techniques](basic-techniques.md)
   Striking Techniques, Stances, Defensive Techniques, and Defense / Offensive Movements.
 - [Sparring](sparring.md)
-  **Draft.** The Sparring list is empty. Not complete or official. Entries will be added as they are supplied.
-- [One and Two Step Sparring](one-two-step-sparring.md)
-  **Draft.** The One and Two Step Sparring list is empty. Not complete or official. Entries will be added as they are supplied.
+  **Draft.** The Sparring and One and Two Step Sparring lists are empty. Not complete or official. Entries will be added as they are supplied.
 - [Accessory Exercises](accessory-exercises.md)
   **Draft.** The Accessory Exercises list is empty. Not complete or official. Entries will be added as they are supplied.
