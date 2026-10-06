@@ -8,7 +8,7 @@ Names below follow the Curriculum Progression draft, in order. Shared history fo
 
 ## Basic Pattern Set
 
-Teaches basic movement, turning, defense, and punching. Utilized to prepare white belts for more complex concepts.
+Teaches basic movement, turning, defense, and punching. Utilized to prepare White Belts for more complex concepts.
 
 ## Pyung Ahn Pattern Sets
 
@@ -30,7 +30,7 @@ Early books by Funakoshi (1922) and Motobu Chōki (1926) still write Passai. By 
 
 Ankō Itosu took the Shuri/Tomari material he knew and produced the versions that dominate modern practice. He is generally credited with shaping Passai Dai (major / “old”) and creating or isolating Passai Sho (minor / “young”). Dai is the longer, better-known Pattern Set; Sho is shorter and often uses more open-hand and grasping work. Whether Sho is a cut-down Dai, a separate old Pattern Set, or Itosu’s own composition is still argued. He put Passai into the Okinawan school curriculum after the Pinan, so it became a standard intermediate Pattern Set.
 
-Korean kwan founders who had trained in Shotokan or related Japanese karate brought the Pattern Set home. In Tang Soo Do it is Bassai or Pal Che / Pal Sek (팔쇄), usually placed after the five Pyung Ahn Pattern Sets and before or alongside Naihanchi.
+Korean Kwan founders who had trained in Shotokan or related Japanese karate brought the Pattern Set home. In Tang Soo Do it is Bassai or Pal Che / Pal Sek (팔쇄), usually placed after the five Pyung Ahn Pattern Sets and before or alongside Naihanchi.
 
 “Bassi” in a Tang Soo Do context is the Korean descendant of Okinawan Passai, standardized through Itosu, renamed Bassai by Funakoshi, and kept as a major intermediate Pattern Set for storming a defense rather than as a beginner Pattern Set like the Pyung Ahn set.
 
@@ -109,4 +109,4 @@ Sakugawa taught Sōkon “Bushi” Matsumura, who made the Pattern Set part of S
 
 Gichin Funakoshi learned the Itosu versions, took them to mainland Japan, and in 1935 renamed them Kankū Dai and Kankū Sho—“gazing at the sky”—from the opening movement where the hands rise and the eyes look up through the gap. Kankū Dai was one of his favorite Pattern Sets.
 
-Korean kwan founders who had trained in Shotokan or related Japanese karate brought the Dai Pattern Set home as Kong Sang Koon. Hwang Kee put it into the early Moo Duk Kwan / Tang Soo Do list as an advanced Pattern Set. Most Tang Soo Do schools teach only the long (Dae) version; a few also teach So. In those systems it is often called the eagle Pattern Set and runs about 65–70 movements. It is usually a Dan-level requirement, after Bassai and Naihanchi.
+Korean Kwan founders who had trained in Shotokan or related Japanese karate brought the Dai Pattern Set home as Kong Sang Koon. Hwang Kee put it into the early Moo Duk Kwan / Tang Soo Do list as an advanced Pattern Set. Most Tang Soo Do schools teach only the long (Dae) version; a few also teach So. In those systems it is often called the eagle Pattern Set and runs about 65–70 movements. It is usually a Dan-level requirement, after Bassai and Naihanchi.
